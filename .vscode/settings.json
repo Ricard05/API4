@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 2,
+    "editor.stickyTabStops": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4C2015",
+        "titleBar.activeBackground": "#6B2D1D",
+        "titleBar.activeForeground": "#FDF9F8"
+    }
+}
